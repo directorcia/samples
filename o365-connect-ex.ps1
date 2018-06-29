@@ -1,6 +1,6 @@
 clear-host
-#set-executionpolicy remotesigned
-#May be required once to allow ability to runs scripts in PowerShell
+## set-executionpolicy remotesigned
+## May be required once to allow ability to runs scripts in PowerShell
 
 import-module msonline
 
